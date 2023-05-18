@@ -1,3 +1,4 @@
 aa
 createCRUD
-addedsomemethod
+내가 만든걸로 하시죠?
+
